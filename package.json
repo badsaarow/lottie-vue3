@@ -55,6 +55,7 @@
     "dist/**/*"
   ],
   "dependencies": {
+    "lottie-web": "^5.7.13",
     "vue": "^3.2.6"
   }
 }
